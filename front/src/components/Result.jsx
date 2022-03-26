@@ -1,10 +1,12 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 import { connect } from 'react-redux';
 const Result = (props) => {
   
   return <div>
-     <h1>soy Result</h1>
+    <h4> <center>Resultado</center></h4>
   </div>
+      
+    
 }
 
 
