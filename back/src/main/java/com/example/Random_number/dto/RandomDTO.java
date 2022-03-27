@@ -1,13 +1,22 @@
 package com.example.Random_number.dto;
 
 public class RandomDTO {
-    private int numero;
+    private int numeroInicial;
+    private int numeroFinal;
 
-    public int getNumero() {
-        return numero;
+    public int getNumeroInicial() {
+        return numeroInicial;
     }
 
-    public void setNumero(int numero) {
-        this.numero = numero;
+    public void setNumeroInicial(int numeroInicial) {
+        this.numeroInicial = numeroInicial;
+    }
+
+    public int getNumeroFinal() {
+        return numeroFinal;
+    }
+
+    public void setNumeroFinal(int numeroFinal) {
+        this.numeroFinal = numeroFinal;
     }
 }

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/back/Random_number.iml" filepath="$PROJECT_DIR$/back/Random_number.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Random_number_Proyect.iml" filepath="$PROJECT_DIR$/.idea/Random_number_Proyect.iml" />
-      <module fileurl="file://$PROJECT_DIR$/back/password.iml" filepath="$PROJECT_DIR$/back/password.iml" />
     </modules>
   </component>
 </project>
